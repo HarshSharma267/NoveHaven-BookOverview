@@ -1,0 +1,183 @@
+[
+    {
+        "id":1,
+        "name":"To Kill a Mockingbird by Harper Lee",
+        "title":"Set in the American South during the 1930s, this classic novel explores themes of racial injustice, moral growth, and compassion through the eyes of young Scout Finch. The story centers around her father, Atticus Finch, who defends a black man wrongly accused of raping a white woman.",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://cdn2.penguin.com.au/covers/original/9781784870799.jpg"
+    },
+    {
+        "id":2,
+        "name":" 1984 by George Orwell",
+        "title":"A dystopian novel set in a totalitarian society ruled by Big Brother, where individuality and independent thought are persecuted. The protagonist, Winston Smith, grapples with the oppressive regime and struggles to maintain his sense of identity in a world dominated by surveillance and propaganda",
+        "price":40,
+        "category":"Entertainment",
+        "image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/b468d093312907.5e6139cf2ab03.png"
+    },
+    {
+        "id":3,
+        "name":"The Catcher in the Rye by J.D. Salinger",
+        "title":"A novel that delves into the mind of Holden Caulfield, a disillusioned teenager who has been expelled from prep school. As he wanders around New York City, Holden reflects on the phoniness of the adult world, the innocence of childhood, and his own struggles with identity.",
+        "price":60,
+        "category":"Entertainment",
+        "image":"https://th.bing.com/th/id/OIP.EhOg_5HJS4hDMONihBcEoQHaMP?rs=1&pid=ImgDetMain"
+    },
+    
+    {
+        "id":4,
+        "name":"Brave New World by Aldous Huxley",
+        "title":"Set in a future society where technological advancements have led to the creation of a seemingly perfect world, this novel explores themes of control, dehumanization, and the loss of individuality. The protagonist, Bernard Marx, becomes disillusioned with the superficial happiness of his society and begins to question the cost of this utopia.",
+        "price":100,
+        "category":"Thriller",
+        "image":"https://cdn2.penguin.com.au/covers/original/9781784876258.jpg"
+    },
+    
+    {
+        "id":5,
+        "name":"The Great Gatsby by F. Scott Fitzgerald",
+        "title":"A story set in the Roaring Twenties that explores themes of wealth, love, and the American Dream. The novel is narrated by Nick Carraway, who tells the tragic tale of Jay Gatsby, a wealthy man who is obsessed with rekindling a past romance with Daisy Buchanan.",
+        "price":120,
+        "category":"Thriller",
+        "image":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780743273565/the-great-gatsby-9780743273565_hr.jpg"
+    },
+    
+    {
+        "id":6,
+        "name":"Moby-Dick by Herman Melville",
+        "title":"This epic novel follows the obsessive quest of Captain Ahab to hunt down the white whale, Moby-Dick, that bit off his leg. The story is rich with symbolism and explores themes of revenge, fate, and the struggle between man and nature.",
+        "price":0,
+        "category":"free",
+        "image":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781681778488/moby-dick-9781681778488_hr.jpg"
+    },
+    
+    {
+        "id":7,
+        "name":"The Handmaid's Tale by Margaret Atwood",
+        "title":"Set in a dystopian future where a theocratic regime has taken control of the United States, the novel follows Offred, a woman forced into the role of a handmaid whose sole purpose is to bear children for the ruling class.",
+        "price":0,
+        "category":"free",
+        "image":"https://th.bing.com/th/id/OIP.Kuns2c0Md78MiTPIvuYlTwAAAA?rs=1&pid=ImgDetMain"
+    },
+    
+    {
+        "id":8,
+        "name":"Graphic novels",
+        "title":"Graphic novels are stories told through a combination of illustrations and text, similar to comic books but often more complex in terms of themes and length.",
+        "price":0,
+        "category":"free",
+        "image":"https://th.bing.com/th/id/OIP.OoAl690Iup8yqMEjOSHdWgHaJv?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id":9,
+        "name":"Life of Pi by Yann Martel",
+        "title":"This novel tells the extraordinary story of Pi Patel, a young Indian boy who survives a shipwreck and is stranded on a lifeboat in the Pacific Ocean with a Bengal tiger named Richard Parker. The story is a meditation on faith, survival, and the power of storytelling as Pi navigates the challenges of the open sea.",
+        "price":0,
+        "category":"free",
+        "image":"https://images.thenile.io/ebay/9780857865533.jpg"
+    },
+    {
+        "id":10,
+        "name":"The Hobbit by J.R.R. Tolkien",
+        "title":"This fantasy novel follows the journey of Bilbo Baggins, a reluctant hobbit, who is swept into an adventure with a group of dwarves to reclaim their lost kingdom from the dragon Smaug. Along the way, Bilbo encounters various magical creatures and discovers his own bravery and resourcefulness.",
+        "price":0,
+        "category":"free",
+        "image":"https://images.thenile.io/r1000/9780007487288.jpg"
+    },
+    {
+        "id":11,
+        "name":"The Book Thief by Markus Zusak",
+        "title":"Narrated by Death, this novel is set in Nazi Germany and tells the story of Liesel Meminger, a young girl who finds solace in stealing books and sharing them with others during the horrors of World War II. The story is a poignant exploration of the power of words, friendship, and the resilience of the human spirit.",
+        "price":0,
+        "category":"free",
+        "image":"https://th.bing.com/th/id/R.5b4a5f4d390dcd846e3972813fd43c30?rik=47s%2f8VKnRYhbyg&riu=http%3a%2f%2fwww.32books.com%2fwp-content%2fuploads%2f2018%2f06%2fThe-Book-Thief-Markus-Zusak.jpg&ehk=kXawZyexmRPT5aiAIB6jNLTACCfnAvxyh7TJSnAOddM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id":12,
+        "name":"The Kite Runner by Khaled Hosseini",
+        "title":"A powerful and heart-wrenching story set against the backdrop of Afghanistan's tumultuous history, chronicling the life of Amir, a privileged boy, and Hassan, his loyal friend and servant. Through moments of deep betrayal, sacrifice, and the pursuit of redemption, Khaled Hosseini explores themes of friendship, guilt, and the possibility of atonement as Amir confronts the shadows of his past and the legacy of his decisions.",
+        "price":40,
+        "category":"Entertainment",
+        "image":"https://dynamic.indigoimages.ca/v1/books/books/0385660073/1.jpg?width=614&maxheight=614&quality=85"
+    },
+    {
+        "id":13,
+        "name":"The Night Circus by Erin Morgenstern",
+        "title":"A spellbinding and atmospheric tale of magic, love, and rivalry, set within an enchanting, mysterious circus that arrives without warning. Created as a battleground for a fierce competition between two young illusionists, Celia and Marco, The Night Circus immerses readers in a lush, dreamlike world where every performance and tent conceals secrets and unimaginable wonders. As the two rivals fall deeply in love, their destinies become entwined, threatening not only their lives but also the fate of everyone involved in this mesmerizing and dangerous game.",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://4.bp.blogspot.com/-omrrE5gJiFo/WahMZudGU3I/AAAAAAAAAQU/oUwnCOeT7Wg_5V4CJAmqDuC9qybkmHXkgCLcBGAs/s1600/night%2Bcircus.jpg"
+    },
+    {
+        "id":14,
+        "name":"Gone Girlby Gillian Flynn",
+        "title":"Gone Girl - A gripping and darkly twisted psychological thriller, Gone Girl delves into the complex, toxic marriage of Nick and Amy Dunne. On their fifth wedding anniversary, Amy mysteriously disappears, and all signs point to Nick, whose detached behavior quickly makes him the prime suspect. As the story unfolds through alternating perspectives—Nick's present-day account and Amy’s diary entries—it reveals layers of deceit, betrayal, and manipulation. Flynn crafts a taut narrative that keeps readers guessing with every page, exploring themes of love, resentment, and the lengths to which people will go to hide their secrets.",
+        "price":0,
+        "category":"Entertainment",
+        "image":"https://th.bing.com/th/id/OIP.7Iisub0Zdg7bHYm5dIY6dAHaLQ?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id":15,
+        "name":"The Road by Cormac McCarthy",
+        "title":"The title refers to the journey that the protagonists—a father and his young son—undertake in a post-apocalyptic world. The road they travel on is the physical path they follow through a desolate, ash-covered landscape, searching for safety, sustenance, and some semblance of hope. It embodies their struggle for survival and the constant movement to find better conditions.",
+        "price":0,
+        "category":"Comedy",
+        "image":"https://images.thenile.io/r1000/9780330468466.jpg"
+    },
+    {
+        "id":16,
+        "name":"One Hundred Years of Solitude by Gabriel García Márquez",
+        "title":"A cornerstone of magical realism, this novel follows the Buendía family over generations in the fictional town of Macondo. It intertwines reality with fantastical elements and explores themes of fate, power, and the cyclical nature of history. García Márquez’s work is notable for its lush storytelling and profound insight into Latin American culture and human nature.",
+        "price":0,
+        "category":"Comedy",
+        "image":"https://th.bing.com/th/id/OIP.9MnUn7rJUUQGtJvFaYx5mgHaLQ?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id":17,
+        "name":"The Nightingale - Kristin Hannah",
+        "title":"The Nightingale by Kristin Hannah is a poignant tale of two sisters, Vianne and Isabelle, set during World War II in Nazi-occupied France. Vianne, the elder sister, focuses on protecting her family, while the fearless Isabelle joins the French Resistance, helping Allied soldiers escape.The novel explores themes of love, sacrifice, and resilience, showcasing the unique roles women played in wartime. It’s a powerful story of survival and the indomitable human spirit.",
+        "price":50,
+        "category":"Thriller",
+        "image":"https://1.bp.blogspot.com/-UF6oA_nF9AI/WID9wM4NlpI/AAAAAAAAeDg/kTvV2jI3hmQvLrJ6hd-Hum3yhE2feVE_wCLcB/s1600/The%2BNightingale%2B-%2BUK%2Bedition.jpg"
+    },
+    {
+        "id":18,
+        "name":"House of Leaves - Mark Z. Danielewski",
+        "title":"House of Leaves by Mark Z. Danielewski is a genre-defying horror novel that blends psychological terror, mystery, and experimental storytelling. It follows the story of a young man named Johnny Truant, who discovers a manuscript written by an old man, Zampanò, about a mysterious house owned by the Navidson family.The house appears to be larger on the inside than on the outside, with ever-changing, labyrinthine hallways that defy the laws of physics. As the Navidsons explore the house's depths, they face psychological and physical horrors.",
+        "price":70,
+        "category":"Thriller",
+        "image":"https://blackwells.co.uk/jacket/l/9780385603102.jpg"
+    },
+    {
+        "id":19,
+        "name":"The Wheel of Time: Eye of the World - Robert Jordan",
+        "title":"The Eye of the World, the first book in The Wheel of Time series by Robert Jordan, is an epic fantasy tale set in a world threatened by the return of an ancient evil known as the Dark One. The story follows Rand al'Thor, a young farm boy, and his friends Perrin, Mat, Egwene, and Nynaeve as they are swept into a dangerous journey after their village is attacked by shadowy creatures called Trollocs.Guided by the mysterious Aes Sedai Moiraine and her Warder Lan, the group embarks on a quest to uncover their destiny and confront the forces of darkness. Packed with rich world-building, intricate characters, and timeless themes of heroism and fate, the novel is a cornerstone of modern fantasy.",
+        "price":80,
+        "category":"Comedy",
+        "image":"https://cdn.dc5.ro/img-prod/1276047748-0.jpeg"
+    },
+    {
+        "id":20,
+        "name":"The Witcher: The Last Wish - Andrzej Sapkowski",
+        "title":"The Last Wish by Andrzej Sapkowski introduces Geralt of Rivia, a monster hunter known as a Witcher, who battles supernatural creatures in a morally complex world. This collection of interconnected short stories explores Geralt’s encounters with cursed royals, vengeful spirits, and cunning sorcerers, while delving into themes of destiny, humanity, and choice. Blending dark fantasy, wit, and adventure, the book serves as a gripping prelude to The Witcher saga and its richly imagined universe",
+        "price":70,
+        "category":"Comedy",
+        "image":"https://i1.wp.com/scifiempire.net/wordpress/wp-content/uploads/2020/05/The-Last-Wish-cover-by-Andrzej-Sapkowski.jpg?resize=1324%2C2048&ssl=1"
+    },
+    {
+        "id":21,
+        "name":"The Kite Runner - Khaled Hosseini",
+        "title":"The Kite Runner by Khaled Hosseini is a powerful tale of friendship, betrayal, and redemption set against the backdrop of Afghanistan's turbulent history. The story follows Amir, a privileged boy, and Hassan, his loyal friend and servant, whose bond is tested by a devastating act of betrayal.Years later, Amir, now living in the United States, returns to his war-torn homeland to confront his past and seek redemption. Through its deeply emotional narrative, the novel explores themes of guilt, forgiveness, and the enduring impact of childhood choices.",
+        "price":60,
+        "category":"Entertainment",
+        "image":"https://www.bookishelf.com/wp-content/uploads/2020/02/Book-Review-The-Kite-Runner-by-Khaled-Hosseini.jpg"
+    },
+    {
+        "id":22,
+        "name":"A Passage to India - E.M. Forster",
+        "title":"A Passage to India by E.M. Forster is a poignant exploration of colonialism, cultural conflict, and friendship set in British-ruled India. The story centers around Dr. Aziz, an Indian Muslim, and his interactions with two visiting Englishwomen, Mrs. Moore and Adela Quested. Their initial camaraderie is shattered after a misunderstanding during a visit to the Marabar Caves leads to accusations against Aziz.The novel delves into the deep divides between the British colonizers and the Indian populace, examining themes of prejudice, misunderstanding, and the complexities of human connection amidst political and cultural tensions.",
+        "price":55,
+        "category":"Entertainment",
+        "image":"https://th.bing.com/th/id/R.f0c4c6e9ec72ac6cdfe0eedb3bdf80f6?rik=gjzzDp9TpomuEw&riu=http%3a%2f%2fpics.cdn.librarything.com%2fpicsizes%2f7e%2fef%2f7eef6d9e494190c59345a6b5551426f41514141_v5.jpg&ehk=jghKavI5k%2bVUyZVn9AdekyiJ%2b%2bDv3MpLAvx3G25Fies%3d&risl=&pid=ImgRaw&r=0"
+    }
+]    
